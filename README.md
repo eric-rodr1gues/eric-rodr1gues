@@ -12,6 +12,7 @@
   - Windows 3.1
   - Windows 1
 - Arquitetura do Windows
+- Curiosidade sobre o Windows
 ---
 ## O que é um sistema operacional?
 Um sistema operacional é um software, ou conjunto de softwares, que **administra e gerencia recursos de um sistema**, desde componentes de hardware a programas de terceiros, estabelecendo uma conexão entre os recursos do computador e o usuário. Exsitem vários sistemas
@@ -52,3 +53,16 @@ facilidade.
 - **Windows 1**: O Windows 1 foi o **primeiro sistema operacional da Microfsoft**, apesar de não ter sido tâo bem recebido pelo público, ele que abriu as portas para todo o resto que temos atualmente. Sendo baseada no DOS, ela introduziu o mouse como dispositivo de interface e lançou programas como o bloco de notas, Paint e calculadora
 
 ![Todas as logos do Windows](https://github.com/user-attachments/assets/7ef999b4-d49e-41c8-9dc2-9daf1b6e7f6c)
+
+---
+## Arquitetura do Windows
+A arquitetura do Windows pode ser classificada em quatro partes:
+1. **Kernel do Windows**: É uma das duas camadas de execução do Windows. O sistema operacional da Microsoft é baseado no **Windows NT Kernel**, que é híbrido, combinando características de núcleos monolíticos e microkernels, incluindo gerenciador de processos, gerenciador de memória, gerenciador de E/S e entre outros. O Kernel se comunica com drivers de dispositivos e abstrai o hardware para os níveis superiores. 
+
+2. **Modo de Usuário**: Acima do Kernel, é a **segunda camada de execução que serve para rodar aplicações e serviços**, que é dividido em duas partes:
+   - **Subsistema de Ambiente**: Permite a execução de diferentes tipos de aplicativos, como o Win32 API, UWP (Universal Windows Platform), POSIX e Linux Subsystem (WSL).
+   - **Subsistema de Serviços**: Inclui serviços do sistema operacional que rodam em segundo plano, como gerenciamento de rede, atualização do sistema, entre outros.
+  
+3. **Drivers e HAL**: A camada de abstração de hardware (HAL) **permite que o sistema operacional rode em diferentes arquiteturas sem precisar modificar diretamente o kernel**. Os drivers fazem a **comunicação entre o sistema operacional e os dispositivos de hardware**.
+
+4. **Interface Gráfica e Shell**: A interface do Windows contém componentes como o Explorer.exe
