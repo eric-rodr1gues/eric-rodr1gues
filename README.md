@@ -48,4 +48,7 @@ bastante estável.
 - **Windows XP**: Estreou em 2001 e trouxe uma interface totalmente modficada com um botão de inciar verde, lançou também o suporte a sistemas de 64 bits, ganhou um firewall integrado para melhorar a segurança e um recurso muito útil na época, para gravar CDs com
 facilidade.
 - **Windows 10**: Após o fracasso do Windows 8, a Microsoft lançou o Windows 10, com **login por digital e reconhecimento facial**, navegador Edge, assistente virtual Cortana e retornou com o menu Iniciar em Junho de 2015. Houve também a remodelação de várias funcionalidades que tornaram o sistema mais fluído.
-- **Windows 3.1**: 
+- **Windows 3.1**: Marcou a estreia de funcionalidade consideradas **muito importantes**, como o sistema de fontes TrueType, otimizando a edição de textos, o comando copiar e colar (Ctrl + C e Ctrl + V), ícones coloridos e protetores de tela e trouxe os famosos jogos Paciência e Campo Minado, tendo a sua estreia em 1992.
+- **Windows 1**: O Windows 1 foi o **primeiro sistema operacional da Microfsoft**, apesar de não ter sido tâo bem recebido pelo público, ele que abriu as portas para todo o resto que temos atualmente. Sendo baseada no DOS, ela introduziu o mouse como dispositivo de interface e lançou programas como o bloco de notas, Paint e calculadora
+
+![Todas as logos do Windows](https://github.com/user-attachments/assets/7ef999b4-d49e-41c8-9dc2-9daf1b6e7f6c)
