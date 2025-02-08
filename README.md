@@ -47,4 +47,5 @@ depois de um tempo, o MS-MOD Windows surgiu com uma arquitetura um pouco diferen
 bastante estável.
 - **Windows XP**: Estreou em 2001 e trouxe uma interface totalmente modficada com um botão de inciar verde, lançou também o suporte a sistemas de 64 bits, ganhou um firewall integrado para melhorar a segurança e um recurso muito útil na época, para gravar CDs com
 facilidade.
-- **Windows 10**: Após o fracasso do Windows 8, a Microsoft lançou o Windows 10, com **login por digital e reconhecimento facial**, navegador Edge e 
+- **Windows 10**: Após o fracasso do Windows 8, a Microsoft lançou o Windows 10, com **login por digital e reconhecimento facial**, navegador Edge, assistente virtual Cortana e retornou com o menu Iniciar em Junho de 2015. Houve também a remodelação de várias funcionalidades que tornaram o sistema mais fluído.
+- **Windows 3.1**: 
