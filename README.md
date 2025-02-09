@@ -65,4 +65,17 @@ A arquitetura do Windows pode ser classificada em quatro partes:
   
 3. **Drivers e HAL**: A camada de abstração de hardware (HAL) **permite que o sistema operacional rode em diferentes arquiteturas sem precisar modificar diretamente o kernel**. Os drivers fazem a **comunicação entre o sistema operacional e os dispositivos de hardware**.
 
-4. **Interface Gráfica e Shell**: A interface do Windows contém componentes como o Explorer.exe
+4. **Interface Gráfica e Shell**: A interface do Windows contém componentes como o Explorer.exe, GDI (Graphics Device Interface) e DirectX e Compositor de janelas (DWM - Desktop Window Manager)
+
+---
+## Códigos do Windows
+
+---
+## Curiosidades sobre o Windows
+1. Bill Gates quase nomeou o seu sistema operacional de "Interface Manager", no entanto o nome Windows prevaleceu.
+2. No mundo, aproximadamente 78% das pessoas utilizam o Windows, a Microsoft domina o mercado, mas perde apenas para o Android nos aparelhos mobile.
+3. Segundo a Microsoft, o Windows XP possui 45 milhôes de linhas de código, sendo esse, um dos sistemas mais bem sucedidos da empresa.
+4. A música de incialização do sistema foi criada por Brian Eno, um produtor bem famsoso, e a produção custou 35 mil dólares.
+5. Aquele icônico papel de parede com um céu bem azul, nuvens e pasto bem verde, que ficou marcado na hitória, é uma foto real. Ela foi tirada por Charles O'Rear em 1996, ele fotografou a paisagem no condade de Sonoma na Califórnia
+
+![Bliss - O papel de parede icônico do Windows](https://www.hardware.com.br/wp-content/uploads/static/wp/2022/07/06/4.jpg)
