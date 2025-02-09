@@ -68,7 +68,7 @@ A arquitetura do Windows pode ser classificada em quatro partes:
 4. **Interface Gráfica e Shell**: A interface do Windows contém componentes como o Explorer.exe, GDI (Graphics Device Interface) e DirectX e Compositor de janelas (DWM - Desktop Window Manager)
 
 ---
-## Códigos do Windows
+## Comandos do Windows
 
 ---
 ## Curiosidades sobre o Windows
