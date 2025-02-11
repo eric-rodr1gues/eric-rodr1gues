@@ -69,6 +69,12 @@ A arquitetura do Windows pode ser classificada em quatro partes:
 
 ---
 ## Comandos do Windows
+- ```mkdir```: cria uma nova pasta.
+- ```copy```: copia arquivos de um local para o outro.
+- ```del```: exclui um arquivo ou mais.
+- ```sfc/scannow```:  verifica e corrige arquivos corrompidos do sistema.
+- ```chkdsk```: verifica e corrige erros no disco rígido.
+- ```shutdown```: desliga ou reinicia o computador.
 
 ---
 ## Curiosidades sobre o Windows
